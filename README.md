@@ -14,6 +14,12 @@
 
 ---
 
+## 🎯 Career Goals:
+I'm currently looking for an internship where I can develop my Java programming skills in a real-world environment.  
+I'm eager to contribute to a team, gain hands-on experience, and grow as a software developer.
+
+---
+
 ## 🌱 Currently learning:
 - Advanced algorithms and data structures  
 - Deepening my Java skills through hands-on projects  
