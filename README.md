@@ -14,16 +14,9 @@
 
 ---
 
-## ✨ Projects:
-🔹 [Expression Converter (RPN/Infix)](https://github.com/cssma/Reverse-Polish-Notation-Converter)  
-🔹 [Garden Simulation in C++](https://github.com/cssma/Garden-Grow-Simulator)  
-🔹 [Ancient Greece Battle Simulator](https://github.com/cssma/Cpp-Battle-Simulation)
-
----
-
 ## 🌱 Currently learning:
 - Advanced algorithms and data structures  
-- Cross-platform development  
+- Deepening my Java skills through hands-on projects  
 - Problem solving using object-oriented design
 
 ---
