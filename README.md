@@ -1,18 +1,35 @@
-# 💫 Hi, I'm Martyna!
-👩🏼‍🎓 computer science student at the Jagiellonian University<br>🌱 I am exploring the topic of artificial intelligence and frameworks such as TensorFlow<br>⚡ I’m building my programming portfolio with projects I’ve worked on during my studies
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ciomar_x) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cssma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cssma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cssma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💫 Hi! I'm Martyna 👋  
+🎓 Computer Science student at Jagiellonian University  
+💡 I'm passionate about algorithms, object-oriented programming, and building practical projects  
+🚀 I develop my skills through personal projects, tutoring, and active participation in the CS Students Association at UJ
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cssma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+📌 Familiar with object-oriented programming, data structures, databases, and GitHub workflow
+
+---
+
+## ✨ Projects:
+🔹 [Expression Converter (RPN/Infix)](https://github.com/cssma/Reverse-Polish-Notation-Converter)  
+🔹 [Garden Simulation in C++](https://github.com/cssma/Garden-Grow-Simulator)  
+🔹 [Ancient Greece Battle Simulator](https://github.com/cssma/Cpp-Battle-Simulation)
+
+---
+
+## 🌱 Currently learning:
+- Advanced algorithms and data structures  
+- Cross-platform development  
+- Problem solving using object-oriented design
+
+---
+
+## 🌐 Find me here:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martyna-cios)  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cssma)
+
+---
