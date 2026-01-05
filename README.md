@@ -1,34 +1,30 @@
-# 💫 Hi! I'm Martyna 👋  
-🎓 Computer Science student at Jagiellonian University  
-💡 I'm passionate about algorithms, object-oriented programming, and building practical projects  
-🚀 I develop my skills through personal projects, tutoring, and active participation in the CS Students Association at UJ
+<div align="center">
+
+# Hi, I'm Martyna 👋
+
+### Computer Science Student @ Jagiellonian University
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/martyna-cios)
+
+</div>
+
+## 🎓 About Me
+
+Computer Science student passionate about algorithms and software design. Currently focusing on Java, design patterns, and building practical projects.
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
 ---
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-📌 Familiar with object-oriented programming, data structures, databases, and GitHub workflow
+<div align="center">
 
----
+*Passionate about clean code and continuous learning* ✨
 
-## 🌱 Currently learning:
-- Advanced algorithms and data structures  
-- Deepening my Java skills through hands-on projects  
-- Problem solving using object-oriented design
-
----
-
-## 🎯 Career Goals:
-I'm currently looking for an internship where I can develop my Java programming skills in a real-world environment.  
-I'm eager to contribute to a team, gain hands-on experience, and grow as a software developer.
-
----
-
-## 🌐 Find me here:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martyna-cios)  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cssma)
-
----
+</div>
